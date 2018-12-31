@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQup3t/v0DEGYUvrXBrVo0AAAAAACAAAAAAADZgAAwAAAABAAAAAdGT+fmyryKIqodOUn795fAAAAAASAAACgAAAAEAAAAJjLYMmFM44KFLxQgVPk6J2AAAAAp6Z4ce7jmo0KKFC2hjnKUH5yzrDTAgHSe2TiO0bUgUcEj/X9SBRgU5XZBnG4hyRbNrJco5Y4ZpngqXkEq6rKeUCXsMewc2tkc2rLc4/MwfOI/UV66ySCX4j73pPSNK29NbkNlE/yIy2+tibNBmw7dQwXRy3THNVgqTK+IgKYVI0UAAAAg+XJL+Vi3rTe4w9CU6ADaPQokJQ=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="ProjectTaa.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:artisanconnectdbserver.database.windows.net,1433%3bInitial Catalog=artisanconnect_db%3bUser Id=ridict%40artisanconnectdbserver%3bPassword=Olaide+6690</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\ridhwan.oladejo\Documents\Visual Studio 2017\Projects\ProjectBaa_Version2\ProjectBaa\ProjectTaa\obj\Release\netcoreapp2.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\ridhwan.oladejo\Documents\Visual Studio 2017\Projects\ProjectBaa_Version2\ProjectBaa\ProjectTaa\obj\Release\netcoreapp2.1\PubTmp\EFSQLScripts\ProjectTaa.Data.ApplicationDbContext.sql" />
+</sitemanifest>
